@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou o Alexandre Siqueira</h2>
+<h2 align="center">Olá, eu sou o Alexandre</h2>
 
 <p><span align="center">
  Como desenvolvedor  Full Stack, tenho paixão por criar aplicativos Web intuitivos e escaláveis. Com experiência em desenvolvimento front-end e back-end, tenho um forte conhecimento de todo o processo de desenvolvimento da Web. Tenho experiência em tecnologias como Java, Spring, Angular, JavaScript, NodeJS, TypeScript e React, e estou sempre procurando aprender e expandir meu conjunto de habilidades. Em minha função atual,  estou entusiasmado para trazer minhas habilidades e experiência para novos desafios e oportunidades.
